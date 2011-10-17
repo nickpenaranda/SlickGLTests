@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Nick/src/slick/lib/slick.jar" sourcepath="C:/Users/Nick/src/slick/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Nick/src/slick/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nick/src/lwjgl-2.8.0/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Nick/src/lwjgl-2.8.0/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="SlickGLTests/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nick/src/lwjgl-2.8.0/jar/lwjgl_util.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Nick/src/lwjgl-2.8.0/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
